@@ -1,0 +1,17 @@
+{
+  "name": "material-clip",
+  "version": "0.0.1",
+  "description": "Module that implements the proposed UX improvements for the form components and standardizes the view within Merchant Dashboard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "clipmx",
+    "material"
+  ],
+  "author": "Serch Montaño",
+  "license": "ISC"
+}
